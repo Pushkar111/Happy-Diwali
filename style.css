@@ -130,7 +130,7 @@ audio::-webkit-media-controls-panel {
 
 .my-name {
   text-align: right;
-  font-size: 14px;
+  /* font-size: 14px; */
 }
 
 @media (max-width: 840px) {
